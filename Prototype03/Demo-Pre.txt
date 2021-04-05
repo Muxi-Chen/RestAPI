@@ -1,0 +1,12 @@
+Run ES:
+bin/elasticsearch
+
+Run kibana:
+bin/kibana
+
+Run rabbitmq:
+sbin/rabbitmq-server
+
+Run redis:
+redis-server
+
